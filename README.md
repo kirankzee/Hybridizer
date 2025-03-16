@@ -1,7 +1,4 @@
-# Hybridizer
-Hybridizer: High-Performance C# on GPUs
-
-# C# CUDA Application Using Hybridizer
+# C# High-Performance CUDA Application on GPUs using Hybridizer library
 
 This is a simple C# console application that demonstrates how to use NVIDIA's CUDA technology with C# through the Hybridizer library. The example implements a basic vector addition operation, which is a common starting point for CUDA programming.
 
